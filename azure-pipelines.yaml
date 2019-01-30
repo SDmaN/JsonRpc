@@ -15,5 +15,3 @@ steps:
   inputs:
     testRunner: xunit
     testResultsFiles: '**/*.trx'
-
-- task: PublishBuildArtifacts@1
